@@ -1,4 +1,4 @@
-# DeepFashion Dataset
+# Fashion Editing on DeepFashion Dataset
 
 [[Paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf) [[Dataset]](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)  
 
