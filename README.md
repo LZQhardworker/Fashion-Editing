@@ -6,7 +6,7 @@
 
 **DeepFashion** is a large-scale fashion image dataset that contains over 800,000 diverse fashion images ranging from well-posed shop images to unconstrained consumer photos.
 
-We use part of DeepFashion to implement our editing system.
+We use part of DeepFashion to implement our editing system. All the codes are written in Pytorch
 
 DeepFashion can be used to **train and evaluate algorithms of fashion retrieval, fashion synthesis, and GANs for fashion generation and editing**.
 
@@ -19,10 +19,10 @@ DeepFashion can be used to **train and evaluate algorithms of fashion retrieval,
 
 ![image](https://github.com/HAN-YANG-HIT/Fashion-Editing/blob/master/images/sample.png)
 
-## Dataset to test editing Downloads
+## Dataset Downloads
 * Google Drive: [downloading link](https://drive.google.com/open?id=1BHV7omka5ezoYGYFbKJd6HOsCuopP2bR)
 
-## Pretrained checkpoints to test editing Downloads
+## Pretrained Checkpoints Downloads
 * Google Drive: [downloading link](https://drive.google.com/open?id=1jPDIepE6s2v9VyRQhcgZ2yDeLMpw_Lz4)
 
 Extract the dataset and checkpoints with the same directory of demo.py
